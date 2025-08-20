@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=2&speed=20&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Pradeep;Welcome+To+My+GitHub! %F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=2&speed=20&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Pradeep;Welcome+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
 
 </div>
 
@@ -50,7 +50,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-CodeZ&theme=gotham&hide_border=true" alt="GitHub Streak">
   <br>
