@@ -11,13 +11,13 @@
 💬 Ask me about: <strong>Python, Kotlin, Web Development, Databases, and anything tech-related!</strong><br>
 ⚡ Fun fact: <strong>I debug my code more than I write it—Google is my best friend. 😆🔧</strong>
 
-<!--
+
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white"></a>
+<!--  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> -->
+<!--  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> -->
+  <a href="mailto:pradeep5102g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+<!--  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white"></a> -->
 
 </p>  -->
 
@@ -50,7 +50,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZd&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-CodeZ&theme=gotham&hide_border=true" alt="GitHub Streak">
   <br>
@@ -67,4 +67,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=pradeep-CodeZ&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions">
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
