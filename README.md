@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=2&speed=20&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Pradeep;Welcome+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=2&speed=20&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Pradeep;Welcome+To+My+GitHub! %F0%9F%98%8A" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
   <a href="mailto:pradeep5102g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 <!--  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white"></a> -->
 
-</p>  -->
+</p>  
 
 # 💻 Tech Stack:
 <p align="center">
@@ -50,11 +50,11 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"> 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-CodeZ&theme=gotham&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-CodeZ&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies
