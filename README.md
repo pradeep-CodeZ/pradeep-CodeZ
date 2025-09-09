@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/images/fontbolt (5).png" alt="Pradeep" width="100%"/>
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -7,9 +11,9 @@
       <td>
         <h3>Web & App Developer | Merging Creativity with Functionality</h3>
         <ul>
-          <li>🔭 I’m currently working on: <strong>Android Development</strong> & <strong>Machine Learning</strong> Projects.</li>
-          <li>👯 I’m looking to collaborate on: <strong>Kotlin</strong>, <strong>ML</strong>, and <strong>Web Development</strong> projects.</li>
-          <li>🌱 I’m currently learning: <strong>Advanced Machine Learning</strong> and <strong>Android App Development.</strong></li>
+          <li>🔭 I'm currently working on: <strong>Android Development</strong> & <strong>Machine Learning</strong> Projects.</li>
+          <li>👯 I'm looking to collaborate on: <strong>Kotlin</strong>, <strong>ML</strong>, and <strong>Web Development</strong> projects.</li>
+          <li>🌱 I'm currently learning: <strong>Advanced Machine Learning</strong> and <strong>Android App Development.</strong></li>
           <li>💬 Ask me about: <strong>Python, Kotlin, Web Development, Databases, and anything tech-related!</strong></li>
           <li>⚡ Fun fact: <strong>I debug my code more than I write it—Google is my best friend.</strong></li>
         </ul>
@@ -86,5 +90,4 @@
 </div>
 
 <hr></hr>
-
 
