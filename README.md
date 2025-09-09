@@ -1,24 +1,24 @@
 <div align="center" style="margin-bottom: 0; padding-bottom: 0;">
 <img src="./assets/images/mergedBanner.png" alt="Pradeep" width="40%" style="margin-bottom: 0; padding-bottom: 0;"/>
 </div>
-<hr>
+
+---
+
 <h3> About Me </h3>
 <div align="center">
 <img src="./assets/images/pngwing.com (3).png" width="25%" align="right" />
 <div style="width: 70%; text-align: left;">
-👋 Hi there! I'm **Pradeep**, a passionate developer who loves creating innovative solutions and gaming.
+👋 **Hey! I'm Pradeep** - Developer & Gamer
 
-🔭 **Currently working on:** Android Development & Machine Learning Projects  
-🌱 **Learning:** Advanced Machine Learning and Android App Development  
-💬 **Ask me about:** Python, Kotlin, Web Development, Databases, and anything tech-related!  
-🎮 **Gaming:** I play Call of Duty Mobile (CODM) - Add me: **W01veriine**  
-👨‍💻 **Other GitHub:** Check out my other projects at [gpl-gowthamchand](https://github.com/gpl-gowthamchand)  
-⚡ **Fun fact:** I debug my code more than I write it—Google is my best friend! 😄
+🚀 **Building:** Android Apps & ML Projects  
+📚 **Learning:** Advanced ML & Android Development  
+💬 **Ask me about:** Python, Kotlin, Web Dev, Databases  
+🎮 **CODM:** Add me → **W01veriine**  
+👨‍💻 **More Projects:** [gpl-gowthamchand](https://github.com/gpl-gowthamchand)  
+⚡ **Fun fact:** I debug more than I code 😄
 </div>
 </div>
-
----
-
+<hr>
 <h3>  Connect With Me </h3> 
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 </div>
 
----
+<hr>
 
 <h3> GitHub Stats </h3> 
 
