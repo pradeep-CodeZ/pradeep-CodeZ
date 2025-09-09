@@ -31,4 +31,18 @@
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-CodeZ&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-CodeZ&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-CodeZ&theme=dark&hide_border=true)
+
+</div>
+
 --- 
