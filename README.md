@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeep5102g@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/pradeep_codez)
 [![Discord](https://img.shields.io/badge/Discord-2C2F33?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pradeep_codez)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pradeep_codez)
+[![Instagram](https://img.shields.io/badge/Instagram-87CEEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pradeep_codez)
 
 </div>
 
