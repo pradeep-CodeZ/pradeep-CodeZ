@@ -1,10 +1,8 @@
-<div align="center">
-<img src="./assets/images/mergedBanner.png" alt="Pradeep" width="40%"/>
+<div align="center" style="margin-bottom: 0; padding-bottom: 0;">
+<img src="./assets/images/mergedBanner.png" alt="Pradeep" width="40%" style="margin-bottom: 0; padding-bottom: 0;"/>
 </div>
----
-
-## About Me
-
+<hr>
+<h3> About Me </h3>
 <div align="center">
 <img src="./assets/images/pngwing.com (3).png" width="25%" align="right" />
 <div style="width: 70%; text-align: left;">
@@ -19,7 +17,7 @@
 
 ---
 
-## 📱 Connect With Me
+<h3>  Connect With Me </h3> 
 
 <div align="center">
 
@@ -32,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3> GitHub Stats </h3> 
 
 <div align="center">
 
