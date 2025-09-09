@@ -1,5 +1,5 @@
 <div align="center">
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td align="center">
 <img src="./assets/images/fontbolt (5).png" alt="Pradeep" width="100%"/>
