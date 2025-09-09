@@ -8,13 +8,13 @@
 <div align="center">
 <img src="./assets/images/pngwing.com (3).png" width="25%" align="right" />
 <div style="width: 70%; text-align: left;">
-👋 **Hey! I'm Pradeep** - Developer & Gamer
+👋 <b>Hey! I'm Pradeep</b> - Developer & Gamer
 
 💻 **Building:** Android Apps & ML Projects  
 📖 **Learning:** Advanced ML & Android Development  
 💬 **Ask me about:** Python, Kotlin, Web Dev, Databases  
 🎮 **CODM:** Add me → **W01veriine**  
-🔗 **More Projects:** [gpl-gowthamchand](https://github.com/gpl-gowthamchand)  
+🔗 **More Projects:** <b><i>[gpl-gowthamchand](https://github.com/gpl-gowthamchand) <i><b>  
 ⚡ **Fun fact:** I debug more than I code 😄
 </div>
 </div>
