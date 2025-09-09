@@ -1,7 +1,6 @@
 <div align="center">
 <img src="./assets/images/mergedBanner.png" alt="Pradeep" width="40%"/>
 </div>
-
 ---
 
 ## About Me
