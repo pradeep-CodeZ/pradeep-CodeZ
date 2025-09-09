@@ -15,7 +15,7 @@
 💬 **Ask me about:** Python, Kotlin, Web Development, Databases, and anything tech-related!  
 ⚡ **Fun fact:** I debug my code more than I write it—Google is my best friend! 😄
 </div>
-<div style="flex-shrink: 0;">
+<div style="flex-shrink: 0; margin-top: 10px;">
 <img src="./assets/images/pngwing.com (3).png" alt="Profile" width="80px"/>
 </div>
 </div>
