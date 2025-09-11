@@ -14,7 +14,7 @@
 📖 **Learning:** Advanced ML & Android Development  
 💬 **Ask me about:** Python, Kotlin, Web Dev, Databases  
 🎮 **CODM:** Add me → **W01veriine**  
-🔗 **More Projects:** <b><i>[gpl-gowthamchand](https://github.com/gpl-gowthamchand) </i></b>  
+🔗 **My primary account:** <b><i>[gpl-gowthamchand](https://github.com/gpl-gowthamchand) </i></b>  
 ⚡ **Fun fact:** I debug more than I code 😄
 </div>
 </div>
