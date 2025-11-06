@@ -10,8 +10,8 @@
 <div style="width: 70%; text-align: left;">
 👋 <b>Hey! I'm Pradeep</b> - Developer & Gamer
 
-💻 **Building:** Android Apps & ML Projects  
-📖 **Learning:** Advanced ML & Android Development  
+<!--💻 **Building:** Android Apps & ML Projects  -->
+📖 **Learning:** Curently swithing to Cybersecurity  
 💬 **Ask me about:** Python, Kotlin, Web Dev, Databases  
 🎮 **CODM:** Add me → **W01veriine**  
 🔗 **My primary account:** <b><i>[gpl-gowthamchand](https://github.com/gpl-gowthamchand) </i></b>  
